@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+## Bem vindo (a) Este é o Incrível💡
+Adicionar o Thunder Search ao  Crhome ou Edge.
 
-You can use the [editor on GitHub](https://github.com/joaopfcamacho/incrivel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O Thunder Search  permite-te navegar pela internet  da dorma mais segura, com um design sofisticado, o nosso objetivo é fornecer-te a melhor experiència possível!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Origens
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Feito com 💗 em Portugal 
 ```markdown
 Syntax highlighted code block
 
